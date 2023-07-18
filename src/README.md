@@ -10,5 +10,4 @@ Whether you are an experienced developer or just getting started with chatbot de
 
 This book is a must-read for anyone interested in leveraging the power of AI and NLP to create cutting-edge chatbots. With 'Building ChatGPT Apps', you'll learn how to build advanced chatbots that can improve user experiences and streamline tasks.
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
