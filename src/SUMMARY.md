@@ -1,7 +1,6 @@
 # Summary
 
 - [Introduction](README.md)
-  - [Overview of the book](chapter-1-1.md)
   - [Background information on creating chatbots using ChatGPT](chapter-1-2.md)
   - [Importance of ChatGPT in chatbot development](chapter-1-3.md)
   - [Objectives of the book](chapter-1-4.md)
