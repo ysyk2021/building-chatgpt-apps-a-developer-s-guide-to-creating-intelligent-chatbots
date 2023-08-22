@@ -1,5 +1,4 @@
-Chapter 3: Building a Chatbot with ChatGPT
-==========================================
+
 
 In this chapter, we will walk through the process of building a chatbot with ChatGPT (Generative Pre-trained Transformer). We will cover planning and designing the chatbot, collecting and preparing data for chatbot training, training the chatbot with ChatGPT, and evaluating and improving chatbot performance.
 

@@ -1,5 +1,4 @@
-What is a Chatbot?
-============================================================================
+
 
 A chatbot is an AI-powered conversational interface that can engage in natural language conversations with users. They are designed to simulate human conversation and can be used for a variety of purposes, such as customer service, marketing, or e-commerce.
 

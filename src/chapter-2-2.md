@@ -1,5 +1,4 @@
-Types of Chatbots
-===========================================================================
+
 
 Chatbots are AI-powered conversational interfaces that can engage in natural language conversations with users. There are several types of chatbots, each with its own strengths and weaknesses. In this chapter, we will explore the different types of chatbots.
 

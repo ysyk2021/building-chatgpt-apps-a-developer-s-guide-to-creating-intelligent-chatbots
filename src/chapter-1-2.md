@@ -1,4 +1,4 @@
-# Background Information on Creating Chatbots Using ChatGPT
+
 
 ## Introduction
 

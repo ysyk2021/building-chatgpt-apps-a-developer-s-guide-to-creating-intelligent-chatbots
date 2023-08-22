@@ -1,5 +1,4 @@
-Chapter 2: Introduction to ChatGPT
-==================================
+
 
 ChatGPT (Generative Pre-trained Transformer) is an AI language model developed by OpenAI. It has the capability to generate human-like responses based on text-based prompts. In this chapter, we will explore what ChatGPT is, its features, advantages of using it in chatbot development and some case studies on ChatGPT-Based Chatbots.
 

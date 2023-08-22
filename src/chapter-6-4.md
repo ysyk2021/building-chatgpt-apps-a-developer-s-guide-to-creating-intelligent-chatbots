@@ -1,4 +1,4 @@
-# Best Practices and Lessons Learned from ChatGPT-Based Chatbot Development
+
 
 ## Introduction
 
