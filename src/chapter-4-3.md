@@ -1,5 +1,4 @@
 
-
 Training a chatbot powered by ChatGPT (Generative Pre-trained Transformer) is a critical step in building an effective chatbot. In this chapter, we will explore the techniques and best practices involved in training a chatbot with ChatGPT.
 
 Preparing the Data

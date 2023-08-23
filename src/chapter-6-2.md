@@ -1,5 +1,4 @@
 
-
 ChatGPT (Generative Pre-trained Transformer) is an AI language model that has the capability to generate human-like responses based on text-based prompts. In this chapter, we will explore advanced topics in building chatbots with ChatGPT, specifically integration with other technologies such as speech recognition and natural language understanding (NLU).
 
 Speech Recognition

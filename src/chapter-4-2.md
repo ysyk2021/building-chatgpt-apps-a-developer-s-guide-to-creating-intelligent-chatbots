@@ -1,5 +1,4 @@
 
-
 Collecting and preparing data is a critical step in building an effective chatbot powered by ChatGPT (Generative Pre-trained Transformer). In this chapter, we will explore the techniques and best practices involved in collecting and preparing data for chatbot training.
 
 Collecting Conversational Data
