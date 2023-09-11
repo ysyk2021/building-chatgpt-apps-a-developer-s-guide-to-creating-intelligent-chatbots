@@ -1,5 +1,4 @@
-Chapter 4: Adapting to User Behavior with ChatGPT
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the dynamic process of adapting chatbot interactions to user behavior using ChatGPT, a powerful tool for creating intelligent and responsive chatbots.
 

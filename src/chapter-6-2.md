@@ -1,5 +1,4 @@
-Chapter 7: Integration with Other Technologies (Speech Recognition, NLU, etc.)
-==============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Integrating ChatGPT with other technologies is a powerful way to enhance the capabilities and intelligence of your chatbot applications. In this chapter, we will explore various integration possibilities, including speech recognition, natural language understanding (NLU), and more.
 

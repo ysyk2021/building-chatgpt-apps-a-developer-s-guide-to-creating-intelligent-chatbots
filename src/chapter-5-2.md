@@ -1,5 +1,4 @@
-Chapter 6: Customizing Responses Based on User Preferences
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we'll delve into the art of tailoring chatbot responses to meet the unique preferences of users. Customizing responses based on user preferences not only enhances user satisfaction but also strengthens the overall user-bot relationship.
 

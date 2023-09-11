@@ -1,5 +1,4 @@
-Chapter 8: Scaling and Deployment Strategies for ChatGPT-Based Chatbots
-=======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Scaling and deploying ChatGPT-based chatbots to handle various workloads and user demands is a crucial aspect of building successful applications. In this chapter, we will explore strategies and considerations for scaling and deploying your ChatGPT-based chatbots effectively.
 

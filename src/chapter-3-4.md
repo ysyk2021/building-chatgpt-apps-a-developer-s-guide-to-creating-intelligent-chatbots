@@ -1,5 +1,4 @@
-Chapter 7: Case Studies on ChatGPT-Based Chatbots
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will dive into real-world case studies to illustrate the diverse applications and success stories of ChatGPT-based chatbots. These case studies showcase how ChatGPT's capabilities have been harnessed to create intelligent and effective chatbot solutions across various industries.
 

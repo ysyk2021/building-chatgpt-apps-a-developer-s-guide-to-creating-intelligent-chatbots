@@ -1,5 +1,4 @@
-Chapter 4: Collecting and Preparing Data for Chatbot Training
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Effective chatbot development hinges on the quality and relevance of the training data used to fine-tune the chatbot model. In this chapter, we will explore the critical steps involved in collecting and preparing data to ensure your chatbot performs optimally.
 

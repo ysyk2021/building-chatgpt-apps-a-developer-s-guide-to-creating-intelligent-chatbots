@@ -1,5 +1,4 @@
-Chapter 1: What is ChatGPT?
-===========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this introductory chapter, we will dive into the foundational concept of ChatGPT, providing readers with a clear understanding of what ChatGPT is and its significance in the world of chatbot development.
 

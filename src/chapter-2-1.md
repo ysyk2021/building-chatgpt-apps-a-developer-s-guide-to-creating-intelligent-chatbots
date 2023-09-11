@@ -1,5 +1,4 @@
-Chapter 1: What is a Chatbot?
-=============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the fundamental concept of chatbots and explore their role in the world of technology and communication.
 

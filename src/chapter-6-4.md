@@ -1,5 +1,4 @@
-Chapter 7: Best Practices and Lessons Learned from ChatGPT-Based Chatbot Development
-====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Building chatbots powered by ChatGPT involves not only technical expertise but also a deep understanding of user interactions and ethical considerations. In this chapter, we will explore best practices and share valuable lessons learned from ChatGPT-based chatbot development.
 

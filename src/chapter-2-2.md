@@ -1,5 +1,4 @@
-Chapter 3: Types of Chatbots
-============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the various types of chatbots that exist, each with its own characteristics, capabilities, and use cases. Understanding these different types of chatbots is essential for selecting the right approach when developing your intelligent chatbot application.
 

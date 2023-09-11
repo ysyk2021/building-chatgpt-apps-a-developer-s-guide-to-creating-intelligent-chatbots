@@ -1,5 +1,4 @@
-Chapter 4: Personalizing Chatbots with ChatGPT
-==============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the art of personalizing chatbots using the capabilities of ChatGPT. Personalization is essential for creating intelligent and engaging chatbot experiences that cater to individual user preferences and needs.
 

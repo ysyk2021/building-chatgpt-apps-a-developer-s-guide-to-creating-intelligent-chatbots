@@ -1,5 +1,4 @@
-Chapter 3: Training a Chatbot with ChatGPT
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Training a chatbot with ChatGPT is a crucial step in creating intelligent and effective conversational AI applications. In this chapter, we will delve into the process of training a chatbot using ChatGPT, including data collection, fine-tuning, and evaluation.
 

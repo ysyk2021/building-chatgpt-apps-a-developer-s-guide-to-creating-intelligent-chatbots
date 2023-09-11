@@ -1,5 +1,4 @@
-Chapter 5: Case Studies on Personalized Chatbots Built with ChatGPT
-===================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into real-world case studies that showcase the practical applications and benefits of personalized chatbots powered by ChatGPT. These examples will illustrate how businesses and organizations have leveraged ChatGPT to create intelligent and user-centric chatbot experiences.
 

@@ -1,5 +1,4 @@
-Chapter 2: Advantages of Using Chatbots
-=======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the myriad advantages of incorporating chatbots into your applications and services. Understanding these benefits is crucial for making informed decisions when developing intelligent chatbot solutions.
 

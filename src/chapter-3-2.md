@@ -1,5 +1,4 @@
-Chapter 3: The Features of ChatGPT
-==================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the key features and capabilities of ChatGPT that make it a powerful tool for building intelligent chatbots. Understanding these features is essential for developers looking to harness the full potential of ChatGPT in their chatbot applications.
 
